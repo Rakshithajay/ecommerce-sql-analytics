@@ -42,3 +42,10 @@ across 9 tables using advanced SQL techniques.
 - Date functions: STRFTIME(), JULIANDAY()
 - COALESCE() for NULL handling
 - Aggregate functions: SUM, AVG, COUNT, MIN, MAX
+
+## Dashboard
+Built an interactive Power BI dashboard visualizing:
+- Revenue by product category
+- Late delivery rate by Brazilian state
+- RFM customer segmentation (Champion/Loyal/At Risk/Lost)
+- One-time vs repeat customer breakdown
